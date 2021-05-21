@@ -101,7 +101,7 @@ sphinxcontrib-qthelp==1.0.2
 sphinxcontrib-serializinghtml==1.1.3
 -e git+https://github.com/MichiganDataScienceTeam/drugreviews.git@c5ec08f9bc516bef356cb1a312c7477047ff764c#egg=src
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==2.5.0
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 terminado==0.8.2
